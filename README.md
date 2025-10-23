@@ -60,7 +60,8 @@ Diversas métricas-chave de desempenho (KPIs) foram desenvolvidas no DAX para a 
 * **Receita Identificada**
 
 ## 🖼️ Visualizações (Dashboard)
-<img width="1484" height="830" alt="Captura de tela 2025-10-22 220743" src="https://github.com/user-attachments/assets/3297a16a-71d5-4330-a1e5-d36626918459" />
+<img width="1484" height="830" alt="Captura de tela 2025-10-22 220743" src="https://github.com/user-attachments/assets/fb8778a0-287e-4a7e-bbea-4566b825484f" />
+
 <img width="1481" height="832" alt="Captura de tela 2025-10-22 220755" src="https://github.com/user-attachments/assets/109803ac-1171-4108-820b-a1f603f69af0" />
 
 
