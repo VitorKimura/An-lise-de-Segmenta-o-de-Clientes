@@ -7,7 +7,7 @@ O foco é transformar dados brutos de transações em *insights* acionáveis par
 
 ## 💾 Dataset Utilizado
 * **Nome:** Online Retail II UCI
-* **Fonte:** Kaggle (disponível no repositório)
+* **Fonte:** Kaggle: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 * **Descrição:** Contém dados de transações de uma loja de varejo online baseada no Reino Unido entre 01/12/2009 e 09/12/2011.
 
 ---
