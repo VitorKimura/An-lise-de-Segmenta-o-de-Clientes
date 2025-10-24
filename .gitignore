@@ -1,0 +1,16 @@
+# Arquivos gerados pelo Power BI Desktop (cache, logs, temporários)
+*.pbit 
+*.tmp
+*.temp
+*.abf
+*.db
+*.trc
+*.querycache
+
+# Pastas de cache e configurações locais
+.vs/
+.cache/
+.vscode/
+
+# Arquivos do Git
+.git/
