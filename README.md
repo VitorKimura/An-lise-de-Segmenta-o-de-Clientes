@@ -1,7 +1,7 @@
 # 📊 Projeto de Segmentação de Clientes e Análise de BI (RFM)
 
 ## Objetivo do Projeto
-O principal objetivo deste projeto é simular o dia a dia de um Analista de Dados/BI, fornecendo uma visão geral do negócio (e-commerce) e, principalmente, realizando uma análise de **Segmentação de Clientes** utilizando a metodologia RFM (Recência, Frequência e Valor Monetário).
+O principal objetivo deste projeto é simular o dia a dia de um Analista de Dados/BI, fornecendo uma visão geral do negócio (e-commerce) e, realizar uma análise de **Segmentação de Clientes** utilizando a metodologia RFM (Recência, Frequência e Valor Monetário).
 
 O foco é transformar dados brutos de transações em *insights* acionáveis para estratégias de marketing e retenção.
 
